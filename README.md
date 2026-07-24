@@ -2,7 +2,7 @@
 
 ## Computer Science Student | Restaurant Operations Leader | Aspiring Data Analyst
 
-I'm a Computer Science student at Southern New Hampshire University with over 20 years of leadership experience in restaurant operations. I'm transitioning into technology and building software and data analytics projects that solve real business problems.
+After more then 20 years leading restaurant operations and managing multi-million-dollar businesses, I'm combining my business experience with computer science to build software and data solutions that improve business performance.
 
 ---
 
