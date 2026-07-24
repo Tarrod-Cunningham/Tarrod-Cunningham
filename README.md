@@ -1,6 +1,6 @@
 # Hi, I'm Tarrod Cunningham 👋
 
-## Computer Science Student | Restaurant Operations Leader | Aspiring Data Analyst
+## Computer Science Student | Restaurant Operations Leader | Data & Software Enthusiast
 
 After more then 20 years leading restaurant operations and managing multi-million-dollar businesses, I'm combining my business experience with computer science to build software and data solutions that improve business performance.
 
