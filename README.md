@@ -1,16 +1,12 @@
 # Hi, I'm Tarrod Cunningham 👋
 
-## Computer Science Student | Future Data Analyst | Aspiring Software Developer
+## Computer Science Student | Restaurant Operations Leader | Aspiring Data Analyst
 
-Welcome to my GitHub!
-
-I'm currently pursuing a Computer Science degree at Southern New Hampshire University while transitioning from over 20 years of leadership in restaurant operations into the technology industry.
-
-My passion is using technology and data to solve real business problems.
+I'm a Computer Science student at Southern New Hampshire University with over 20 years of leadership experience in restaurant operations. I'm transitioning into technology and building software and data analytics projects that solve real business problems.
 
 ---
 
-## 🚀 Currently Learning
+## 💻 Tech Stack
 
 - Python
 - Java
@@ -18,37 +14,38 @@ My passion is using technology and data to solve real business problems.
 - SQL
 - Git & GitHub
 - Agile / Scrum
-- Data Analytics
-- Power BI
+- Object-Oriented Programming
+- Data Analytics (Learning)
+- Power BI (Learning)
 
 ---
 
-## 🛠 Current Projects
+## 🚀 Current Focus
 
-- 📊 Restaurant Intelligence Suite
-- 📈 Sales Analytics Dashboard
-- 🗄 SQL Portfolio
+- Building a professional software portfolio
+- Strengthening SQL and Python skills
+- Creating business-focused analytics projects
+- Preparing for a remote technology career
+
+---
+
+## 📂 Featured Projects (Coming Soon)
+
+- 🍽️ Restaurant Intelligence Suite
+- 📊 Sales Analytics Dashboard
+- 📈 SQL Portfolio
 - 🐍 Python Business Analytics
+- 👨‍💻 Java Applications
 
 ---
 
 ## 🎯 2026 Goals
 
-- Complete my Associate's Degree in Computer Science
-- Continue toward my Bachelor's Degree
-- Build a professional software portfolio
-- Land a remote technology position
+- ✅ Complete my Associate's Degree in Computer Science
+- 🎓 Continue toward my Bachelor's Degree
+- 💼 Land a remote role in Data Analytics, Business Analysis, or Software Development
+- 🌱 Keep learning and building every week
 
 ---
 
-## 💡 Interests
-
-- Data Analytics
-- Business Intelligence
-- Software Development
-- Process Improvement
-- Automation
-
----
-
-> "Technology is most powerful when it solves real business problems."
+> "Technology creates the most value when it solves real business problems."
